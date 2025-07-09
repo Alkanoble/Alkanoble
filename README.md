@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Alka 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=1000&center=true&vCenter=true&width=435&lines=Currently+working+on+real-world+web+projects;Learning+Firebase+%2B+Frontend;Excited+about+open+source+%E2%9C%A8" alt="Typing SVG" />
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=1000&center=true&vCenter=true&width=700&lines=Currently+working+on+real-world+web+projects;Learning+Firebase+%2B+Frontend;Excited+about+open+source+%E2%9C%A8)
 </p>
 
 ---
