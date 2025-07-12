@@ -12,8 +12,7 @@
 - 🔧 Passionate about crafting sleek, functional web applications  
 - 🔐 Currently diving into **Firebase**, **authentication systems**, and **responsive UI design**  
 - 🧠 Continuously learning new technologies and solving real-world problems  
-- 🎯 Latest project: [**AD-EASY**](https://github.com/Alkanoble/AD_EASY) — an intuitive ad publishing platform  
-- 💡 Always experimenting with creative ideas & clean design
+- 💡 Always experimenting with creative ideas & clean design  
 
 ---
 
@@ -21,13 +20,27 @@
 
 - 💻 HTML • CSS • JavaScript • SQL • C • Java (basic)  
 - 🔧 Firebase • Git • GitHub • Streamlit  
-- 🎨 Poster Design • Event Planning • Creative Problem Solving
+- 🎨 Poster Design • Event Planning • Creative Problem Solving  
 
 ---
 
-### 📌 Featured Project: AD-EASY
+### 📌 Featured Projects
 
+#### 🔹 [AD-EASY](https://github.com/Alkanoble/AD_EASY)
 > 📰 A streamlined and user-friendly platform to manage newspaper ads and publications, with Firebase-backed authentication and real-time UI interactions.
 
+#### 🔹 [Next Word Prediction](https://github.com/Alkanoble/Next-Word-Prediction)
+> 🧠 A Streamlit-based web app that predicts the next word in a sentence using an LSTM (Long Short-Term Memory) neural network built with TensorFlow/Keras.
+
+**🚀 Features:**
+- 🎯 Real-time next word prediction using custom or sample text  
+- 🧠 Configurable LSTM architecture and training hyperparameters  
+- 📚 Supports custom text input for training  
+- 📊 Live visualization of training metrics and word frequency  
+- 📈 Compare predictions across multiple sentence starters  
+- 🧪 Analyze predictions with confidence bars and sentence completions  
+
+---
 
 <p align="center">✨ Thanks for visiting my GitHub! Let's build cool things together. ✨</p>
+
