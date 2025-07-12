@@ -26,21 +26,12 @@
 
 ### 📌 Featured Projects
 
-#### 🔹 [AD-EASY](https://github.com/Alkanoble/AD_EASY)
+#### 🔹 [AD-EASY](https://github.com/Alkanoble/AD_EASY)  
 > 📰 A streamlined and user-friendly platform to manage newspaper ads and publications, with Firebase-backed authentication and real-time UI interactions.
 
-#### 🔹 [Next Word Prediction](https://github.com/Alkanoble/Next-Word-Prediction)
-> 🧠 A Streamlit-based web app that predicts the next word in a sentence using an LSTM (Long Short-Term Memory) neural network built with TensorFlow/Keras.
-
-**🚀 Features:**
-- 🎯 Real-time next word prediction using custom or sample text  
-- 🧠 Configurable LSTM architecture and training hyperparameters  
-- 📚 Supports custom text input for training  
-- 📊 Live visualization of training metrics and word frequency  
-- 📈 Compare predictions across multiple sentence starters  
-- 🧪 Analyze predictions with confidence bars and sentence completions  
+#### 🔹 [Next Word Prediction](https://github.com/Alkanoble/Next-Word-Prediction)  
+> 🤖 A Streamlit-based app that predicts the next word in a sentence using an LSTM model built with TensorFlow/Keras.
 
 ---
 
 <p align="center">✨ Thanks for visiting my GitHub! Let's build cool things together. ✨</p>
-
